@@ -1,0 +1,432 @@
+{
+    "cast": [
+      {
+        "castName": "Natalia Azoqu",
+        "castBio": "25, Industrial Engineer from Irvine, California",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 16,
+        "id": 1
+      },
+      {
+        "castName": "Carl Boudreaux",
+        "castBio": "41, Truck Driver from Houston, Texas",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 9,
+        "id": 2
+      },
+      {
+        "castName": "Natalie Cole",
+        "castBio": "56, Publishing CEO from Los Angeles",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 15,
+        "id": 3
+      },
+      {
+        "castName": "Jeremy Crawford",
+        "castBio": "40, Attorney from New York City",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 18,
+        "id": 4
+      },
+      {
+        "castName": "Pat Cusack",
+        "castBio": "40, Maintenance Manager from Watervliet, New York",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 20,
+        "id": 5
+      },
+      {
+        "castName": "John Hennigan",
+        "castBio": "38, Pro Wrestler  from Los Angeles",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 12,
+        "id": 6
+      },
+      {
+        "castName": "Christian Hubicki",
+        "castBio": "32, Robotics Scientist from Tallahassee, Florida",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 21,
+        "id": 7
+      },
+      {
+        "castName": "Kara Kay",
+        "castBio": "30, Realtor from San Diego",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 21,
+        "id": 8
+      },
+      {
+        "castName": "Angelina Keeley",
+        "castBio": "28, Financial Consultant from San Clemente, California",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 21,
+        "id": 9
+      },
+      {
+        "castName": "Alec Merlino",
+        "castBio": "24, Bartender from San Clemente, California",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 10,
+        "id": 10
+      },
+      {
+        "castName": "Bi Nguyen",
+        "castBio": "28, MMA Fighter from Houston",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 17,
+        "id": 11
+      },
+      {
+        "castName": "Elizabeth Olson",
+        "castBio": "31, Kitchen Staff from Longview, Texas",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 13,
+        "id": 12
+      },
+      {
+        "castName": "Gabby Pascuzzi",
+        "castBio": "25, Technical Writer from Denver",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 21,
+        "id": 13
+      },
+      {
+        "castName": "Jessica Peet",
+        "castBio": "19, Waitress from Lakeland, Florida",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 19,
+        "id": 14
+      },
+      {
+        "castName": "Alison Raybould",
+        "castBio": "28, Physician from Chapel Hill, North Carolina",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 21,
+        "id": 15
+      },
+      {
+        "castName": "Dan Rengering",
+        "castBio": "27, S.W.A.T. Officer from Gainesville, Florida",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 11,
+        "id": 16
+      },
+      {
+        "castName": "Davie Rickenbacker",
+        "castBio": "30, Social Media Manager from Atlanta, Georgia",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 21,
+        "id": 17
+      },
+      {
+        "castName": "Lyrsa Torres",
+        "castBio": "36, Airline Agent from Boston",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 14,
+        "id": 18
+      },
+      {
+        "castName": "Nick Wilson",
+        "castBio": "27, Public Defender from Williamsburg, Kentucky",
+        "castImg": "",
+        "tribe": "David",
+        "castPlacement": 21,
+        "id": 19
+      },
+      {
+        "castName": "Mike White",
+        "castBio": "47, Film Maker from Los Angeles",
+        "castImg": "",
+        "tribe": "Goliath",
+        "castPlacement": 21,
+        "id": 20
+      }
+    ],
+    "PlacementMerge": [
+      {
+        "Placement": 1,
+        "mergeId": 1,
+        "Id": 1
+      },
+      {
+        "Placement": 2,
+        "mergeId": 2,
+        "Id": 2
+      },
+      {
+        "Placement": 3,
+        "mergeId": 2,
+        "Id": 3
+      },
+      {
+        "Placement": 4,
+        "mergeId": 2,
+        "Id": 4
+      },
+      {
+        "Placement": 5,
+        "mergeId": 3,
+        "Id": 5
+      },
+      {
+        "Placement": 6,
+        "mergeId": 3,
+        "Id": 6
+      },
+      {
+        "Placement": 7,
+        "mergeId": 3,
+        "Id": 7
+      },
+      {
+        "Placement": 8,
+        "mergeId": 3,
+        "Id": 8
+      },
+      {
+        "Placement": 9,
+        "mergeId": 3,
+        "Id": 9
+      },
+      {
+        "Placement": 10,
+        "mergeId": 3,
+        "Id": 10
+      },
+      {
+        "Placement": 11,
+        "mergeId": 3,
+        "Id": 11
+      },
+      {
+        "Placement": 12,
+        "mergeId": 3,
+        "Id": 12
+      },
+      {
+        "Placement": 13,
+        "mergeId": 3,
+        "Id": 13
+      },
+      {
+        "Placement": 14,
+        "mergeId": 4,
+        "Id": 14
+      },
+      {
+        "Placement": 15,
+        "mergeId": 4,
+        "Id": 15
+      },
+      {
+        "Placement": 16,
+        "mergeId": 4,
+        "Id": 16
+      },
+      {
+        "Placement": 17,
+        "mergeId": 4,
+        "Id": 17
+      },
+      {
+        "Placement": 18,
+        "mergeId": 4,
+        "Id": 18
+      },
+      {
+        "Placement": 19,
+        "mergeId": 4,
+        "Id": 19
+      },
+      {
+        "Placement": 20,
+        "mergeId": 4,
+        "Id": 20
+      }
+    ],
+    "users": [
+      {
+        "firstName": "Helen",
+        "lastName": "Chalmers",
+        "email": "helen@gmail.com",
+        "password": "helen",
+        "bio": "Add a bio",
+        "birthday": "Add your birthday",
+        "id": 1
+      },
+      {
+        "firstName": "Madi",
+        "lastName": "Peper",
+        "email": "madi@gmail.com",
+        "password": "madi",
+        "bio": "Add a bio",
+        "birthday": "Add your birthday",
+        "id": 2
+      },
+      {
+        "firstName": "Micah",
+        "lastName": "Thomas",
+        "email": "micah@gmail.com",
+        "password": "micah",
+        "bio": "Add a bio",
+        "birthday": "Add your birthday",
+        "id": 3
+      },
+      {
+        "firstName": "Pat",
+        "lastName": "Denney",
+        "email": "pat@gmail.com",
+        "password": "pat",
+        "bio": "Add a bio",
+        "birthday": "Add your birthday",
+        "id": 4
+      },
+      {
+        "firstName": "Elliot",
+        "lastName": "d",
+        "email": "elliot",
+        "password": "d",
+        "bio": "Add a bio",
+        "birthday": "Add your birthday",
+        "id": 5
+      },
+      {
+        "firstName": "Kayla",
+        "lastName": "Reid",
+        "email": "kayla@gmail.com",
+        "password": "kayla",
+        "bio": "Add a bio",
+        "birthday": "Add your birthday",
+        "id": 6
+      },
+      {
+        "firstName": "Mike",
+        "lastName": "Mike",
+        "email": "mike@gmail.com",
+        "password": "mike",
+        "bio": "Add a bio",
+        "birthday": "Add your birthday",
+        "id": 7
+      }
+    ],
+    "predictions": [
+      {
+        "userId": 1,
+        "CastId": 3,
+        "PlacementPredictionId": 1,
+        "correctPrediction": true,
+        "id": 1
+      },
+      {
+        "userId": 1,
+        "CastId": 1,
+        "PlacementPredictionId": 2,
+        "correctPrediction": true,
+        "id": 2
+      },
+      {
+        "userId": 1,
+        "CastId": 8,
+        "PlacementPredictionId": 3,
+        "correctPrediction": null,
+        "id": 3
+      },
+      {
+        "userId": 7,
+        "CastId": 3,
+        "PlacementPredictionId": 1,
+        "correctPrediction": null,
+        "id": 4
+      },
+      {
+        "userId": 7,
+        "CastId": 5,
+        "PlacementPredictionId": 4,
+        "correctPrediction": null,
+        "id": 5
+      },
+      {
+        "userId": 7,
+        "CastId": 2,
+        "PlacementPredictionId": 2,
+        "correctPrediction": null,
+        "id": 6
+      },
+      {
+        "userId": 7,
+        "CastId": 11,
+        "PlacementPredictionId": 3,
+        "correctPrediction": null,
+        "id": 7
+      },
+      {
+        "userId": 7,
+        "CastId": 4,
+        "PlacementPredictionId": 8,
+        "correctPrediction": null,
+        "id": 8
+      },
+      {
+        "userId": 7,
+        "CastId": 13,
+        "PlacementPredictionId": 5,
+        "correctPrediction": null,
+        "id": 9
+      },
+      {
+        "userId": 1,
+        "CastId": 3,
+        "PlacementPredictionId": 4,
+        "correctPrediction": null,
+        "id": 10
+      },
+      {
+        "userId": 1,
+        "CastId": 8,
+        "PlacementPredictionId": 5,
+        "correctPrediction": null,
+        "id": 11
+      },
+      {
+        "userId": 1,
+        "CastId": 10,
+        "PlacementPredictionId": 9,
+        "correctPrediction": null,
+        "id": 12
+      }
+    ],
+    "messages": [
+        {
+            "currentUser": "Helen",
+            "message": "Ya'll....I am SOOOO pumped for tonight!!",
+            "date": 1538074317303,
+            "id": 1
+          },
+          {
+            "currentUser": "Micah",
+            "message": "Meeee tooooooo ",
+            "date": 1538074341519,
+            "id": 2
+          }
+      
+    ]
+  }
